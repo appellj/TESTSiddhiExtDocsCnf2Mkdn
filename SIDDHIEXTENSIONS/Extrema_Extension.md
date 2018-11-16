@@ -1,7 +1,7 @@
 # Extrema Extension
 
 -   [bottomKLengthBatch](#bottomKLengthBatch)
--   [topKLength Batch](#topKLengthBatch)
+-   [topKLengthBatch](#topKLengthBatch)
 -   [bottomK](#bottomK)
 -   [topK](#topK)
 -   [bottomKTimeBatch](#bottomKTimeBatch)
@@ -62,7 +62,7 @@
 </tbody>
 </table>
 
-### topKLength Batch
+### topKLengthBatch
 
 <table>
 <colgroup>
